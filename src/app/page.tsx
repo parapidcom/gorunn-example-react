@@ -20,7 +20,7 @@ export default function Home() {
               priority
             />
           </div>
-          <div>This Next.js is running on the Gorunn!</div>
+          <div>I am running on Gorunn!</div>
         </div>
       </div>
     </>
